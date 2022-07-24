@@ -1,0 +1,126 @@
+body{
+    margin: 0%;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 100%;
+
+}
+h1{
+    margin-top: 0%;
+    margin-bottom: 0px;
+    font-family: 'Calligraffitti', cursive;
+    font-size: 4.375rem;
+    color: #8b9192;
+    line-height: 2;
+    
+}
+p{
+    font-size: 20px;
+    font-family: 'Exo 2', sans-serif;
+    font-weight: lighter;
+}
+.h{
+    font-family: 'Exo 2', sans-serif;
+    color: #6542b5;
+    
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+
+}
+.top-container{
+    background-color: #eeeee4;
+    position: relative;
+    padding-top: 100px;
+    border-style: solid;
+    border-width: 5px;
+    
+}
+.middle-container{
+    
+    margin: 0px;
+}
+.bottom-container{
+    background-color: aqua;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-style: solid;
+    border-bottom-width: 5px;
+    border-top-width: 0px;
+    border-left-width:5px ;
+    border-right-width:5px ;
+}
+.cloud-top{
+    width: 350px;
+    position:absolute;
+    right: 30px;
+}
+.cloud-bottom{
+    width: 350px;
+    position:absolute;
+    left: 30px;
+}
+.cloud-topa{
+    width: 350px;
+    position:absolute;
+    right: 30px;
+    padding: 20px;
+}
+.mountain{
+    width: 800px;
+}
+.pro{
+    text-decoration: underline;
+}
+.hacker{
+    width: 300px;
+    background-color: aqua;
+    border-style: solid;
+    border-width: 5px;
+}
+.profile{
+    background-color: aqua;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-style: solid;
+    border-width: 5px;
+}
+.skillet{
+     width: 300px;
+}
+.skills{
+     background-color: #eeeee4;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     border-style: solid;
+    border-width: 5px;
+}
+.contact-me{
+    background-color: aqua;
+    padding-top: 10px;
+    border-style: solid;
+    border-top-width: 5px;
+    border-bottom-width: 0px;
+    border-left-width:5px ;
+    border-right-width:5px ;
+    
+}
+.support{
+      width: 200px;
+}
+.home{
+    position: absolute;
+    top: 10px;
+    left: 50px;
+    font-family: 'Exo 2', sans-serif;
+    
+    
+}
+.about{
+    position: absolute;
+    top: 10px;
+    left: 130px;
+    font-family: 'Exo 2', sans-serif;
+    
+    
+}
